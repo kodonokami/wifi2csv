@@ -3,7 +3,7 @@ lista redes wifi como um arquivo csv
 
 ![img](https://i.imgur.com/EW4EYLK.jpg)
 
-** <FILTRO> **
+*** <FILTRO> ***
 
 é possivel filtrar SSID usando regex
 
@@ -11,7 +11,7 @@ lista redes wifi como um arquivo csv
 
 ![img](https://i.imgur.com/qI55wbQ.jpg)
 
-** --BSSID **
+*** --BSSID ***
 
 com o argumento --bssid listamos uma rede especifica
 
@@ -19,7 +19,7 @@ com o argumento --bssid listamos uma rede especifica
 
 [img](https://i.imgur.com/1lM4wHL.jpg)
 
-** --open **
+*** --open ***
 
 para as redes abertas usamos o argumento --open
 
@@ -27,7 +27,7 @@ para as redes abertas usamos o argumento --open
 
 ![img](https://i.imgur.com/gHqZ6pV.jpg)
 
-** --wpa e --wpa2 **
+*** --wpa e --wpa2 ***
 
 para listar apenas o wpa ou wpa2 usamos os parametro --wpa e --wpa2
 
@@ -35,7 +35,7 @@ para listar apenas o wpa ou wpa2 usamos os parametro --wpa e --wpa2
 
 ![img](https://i.imgur.com/HXfCFbO.jpg)
 
-** iface **
+*** iface ***
 
 por padrao é a interface de rede é wlan0 ou podemos especificar ela usando --iface
 
@@ -43,7 +43,7 @@ por padrao é a interface de rede é wlan0 ou podemos especificar ela usando --i
 
 ![img](https://i.imgur.com/VpplX4Y.jpg)
 
-** help **
+*** help ***
 
 para exibir os comandos usamos o help
 
